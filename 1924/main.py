@@ -7,7 +7,7 @@ week = ['SUN', 'MON', 'TUE', 'WED', 'THU', 'FRI', 'SAT']
 f = open('data.txt', 'r')
 M, D = map(int, f.readline().split())
 day = D
-asfsafsafsa
+
 for m in range(1,13):
     if m==M:
         break
